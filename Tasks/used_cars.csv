@@ -1,0 +1,505 @@
+Price,Make,Model,Year,Mileage,Fuel_Type,Transmission,City,Seller_ID,Description
+1506276,BMW,320i,2000,149194.0,Diesel,Manual,Karachi,S1520,Excellent condition
+1178741,Toyota,Corolla,2007,269951.0,,Manual,Rawalpindi,S5557,Excellent condition
+3212917,Audi,A3,2022,226571.0,Hybrid,Automatic,Karachi,S6635,
+3093277,Suzuki,Alto,2023,245870.0,,Manual,Peshawar,S4150,
+3483487,Toyota,Corolla,2021,124484.0,Hybrid,Manual,Karachi,S6820,Need minor work
+2575666,BMW,X1,2022,344757.0,Petrol,,,S4598,
+2280258,Suzuki,Alto,2007,21829.0,Hybrid,Automatic,Islamabad,S9179,urgent sale
+1829272,BMW,X1,2004,143873.0,Diesel,Manual,,S6930,Need minor work
+3674614,Honda,Accord,2015,52662.0,Petrol,Manual,Karachi,S8668,
+1511409,Suzuki,Swift,2000,65058.0,,Automatic,,S5315,
+3734606,Audi,A3,2016,60789.0,Hybrid,,Rawalpindi,S9689,Excellent condition
+3455028,Kia,Picanto,2015,15211.0,Petrol,Automatic,Islamabad,S8962,Excellent condition
+4581840,Audi,Q5,2024,70934.0,Diesel,,Peshawar,S9835,
+3669414,BMW,320i,2022,168429.0,Electric,,,S6539,Excellent condition
+1494665,Kia,Rio,2007,313512.0,Diesel,Manual,Lahore,S2160,
+3461010,Honda,City,2021,259496.0,Diesel,,Karachi,S7669,Need minor work
+3334740,Toyota,Corolla,2021,,Hybrid,Automatic,Peshawar,S1993,urgent sale
+4730896,BMW,X1,2025,62288.0,Diesel,Manual,Karachi,S2235,urgent sale
+2472560,Audi,Q5,2003,31522.0,,Manual,Lahore,S7570,Excellent condition
+875090,Honda,City,2000,209693.0,Hybrid,Automatic,Islamabad,S8973,Need minor work
+2085608,Honda,City,2006,,,,Rawalpindi,S9701,Need minor work
+1915886,Toyota,Camry,2002,102425.0,Petrol,,Lahore,S1651,
+2718372,Toyota,Yaris,2021,311012.0,,,Islamabad,S5915,urgent sale
+330454,Suzuki,Alto,2000,245273.0,,,Lahore,S2127,Need minor work
+1547720,Suzuki,Cultus,2005,234734.0,,,Islamabad,S5905,
+2275413,Toyota,Corolla,2008,65517.0,Petrol,,Rawalpindi,S5325,
+1336767,Hyundai,Sonata,2001,53390.0,Electric,Automatic,Lahore,S8239,
+3625949,BMW,X1,2017,10069.0,Petrol,Manual,,S3088,Excellent condition
+4612070,Suzuki,Cultus,2025,25916.0,Hybrid,Manual,,S3532,Need minor work
+4763213,Audi,A3,2025,97826.0,Electric,Manual,Karachi,S5065,First owner
+1021457,Honda,Accord,2003,205562.0,Petrol,Automatic,Karachi,S4728,Need minor work
+1423133,Toyota,Camry,2006,213910.0,Hybrid,Automatic,Lahore,S6425,Excellent condition
+1158570,Toyota,Yaris,2005,309396.0,Hybrid,Manual,Lahore,S9379,Excellent condition
+1509038,Hyundai,i10,2006,138547.0,Petrol,,Peshawar,S4228,First owner
+3240084,Hyundai,Elantra,2021,178119.0,,Automatic,,S7592,
+2142324,Suzuki,Swift,2004,105579.0,Electric,,Peshawar,S1006,First owner
+1982180,Suzuki,Alto,2013,309079.0,,,Islamabad,S3780,
+2503410,Toyota,Yaris,2016,336843.0,,Automatic,Lahore,S1757,Need minor work
+4747724,Hyundai,i10,2024,43182.0,Electric,Automatic,,S1090,Excellent condition
+2418407,Audi,A4,2007,97215.0,,Automatic,Lahore,S9702,
+3622295,Kia,Picanto,2024,237035.0,,,Rawalpindi,S8777,urgent sale
+3378912,Suzuki,Alto,2020,,,Automatic,,S6238,
+2069499,Toyota,Corolla,2004,126247.0,Electric,,Karachi,S2020,Need minor work
+29824384,Audi,A4,2012,311225.0,Petrol,,Peshawar,S7865,
+2199803,BMW,X3,2017,,Diesel,Automatic,Karachi,S7624,
+924439,Honda,City,2004,,,Manual,Peshawar,S8564,Need minor work
+2390759,Toyota,Yaris,2012,176627.0,Diesel,Automatic,Islamabad,S5133,Excellent condition
+3482675,Hyundai??,elantra  ,2023,287810.0,Petrol,Automatic,Karachi,S5051,Need minor work
+4037518,Audi,A3,2019,84892.0,Diesel,Manual,Peshawar,S7043,Need minor work
+63301756,Kia,Rio,2023,65048.0,Diesel,Automatic,Lahore,S4249,Excellent condition
+3935882,Kia,Rio,2020,132323.0,Petrol,,Islamabad,S6688,
+2607501,Hyundai,i10,2011,41153.0,,,Islamabad,S8532,
+1194258,Honda,City,2005,278545.0,Hybrid,,Rawalpindi,S5022,Excellent condition
+1474194,Suzuki,Cultus,2007,248641.0,,,,S6813,First owner
+3211117,Suzuki,Cultus,2019,149844.0,,Manual,Rawalpindi,S8800,
+3513845,BMW,X1,2014,14040.0,Petrol,Automatic,Karachi,S9698,First owner
+2911931,Hyundai,i10,2017,178429.0,Hybrid,,Peshawar,S9779,
+1702840,Honda,Civic,2006,258859.0,Hybrid,,Rawalpindi,S4727,First owner
+200000,Honda,City,2000,285040.0,Diesel,Automatic,Lahore,S9042,Excellent condition
+3226881,Audi,A3,2018,,Electric,Automatic,Peshawar,S2070,urgent sale
+2555130,Hyundai,Elantra,2018,335010.0,Petrol,Manual,Karachi,S7818,
+1236907,Kia,Rio,2007,278978.0,Electric,Automatic,Peshawar,S2625,Need minor work
+2780980,BMW,320i,2008,,Diesel,Manual,Karachi,S5771,Excellent condition
+3598637,Honda,City,2022,153225.0,Electric,Manual,,S4241,urgent sale
+672143,Toyota,Camry,2007,344547.0,Diesel,Automatic,Karachi,S5728,urgent sale
+3864056,Toyota,yaris  ,2022,164431.0,Electric,Automatic,Rawalpindi,S6280,
+1799828,Suzuki,Alto,2002,125022.0,,,Lahore,S9502,
+616269,Hyundai,Sonata,2005,311881.0,Electric,,Peshawar,S3634,First owner
+2976374,Hyundai,i10,2015,156109.0,Electric,,Lahore,S9431,Excellent condition
+2431053,BMW,X3,2014,221660.0,Petrol,Manual,Rawalpindi,S5375,
+2502808,Honda??,City,2014,259128.0,Petrol,Manual,,S7684,Excellent condition
+3133109,Honda,Civic,2014,66586.0,Diesel,Automatic,,S4993,urgent sale
+2538469,Kia,Sportage,2012,104934.0,,,,S9318,First owner
+2265780,Audi,A3,2009,161529.0,,,,S9903,urgent sale
+39594360,Hyundai,Sonata,2006,130202.0,,Automatic,Karachi,S3492,urgent sale
+1932435,Toyota,Corolla,2016,314424.0,Hybrid,Manual,Peshawar,S3529,Excellent condition
+1365690,Hyundai,Sonata,2010,331767.0,Electric,,Lahore,S8994,
+1174334,Toyota,Camry,2002,128087.0,Hybrid,Manual,,S8269,Need minor work
+1710316,BMW,X1,2000,29112.0,Hybrid,Manual,Islamabad,S3950,Need minor work
+3254026,Honda,Civic,2019,205563.0,,,Karachi,S5183,
+1464481,Toyota,Yaris,2009,291574.0,Diesel,Manual,Peshawar,S8484,First owner
+3351810,Honda,City,2015,60917.0,Diesel,Automatic,Rawalpindi,S7484,First owner
+4146531,Toyota,Camry,2021,30713.0,,,Peshawar,S4115,
+4017782,Suzuki,Swift,2024,76711.0,Petrol,,,S2476,First owner
+2938204,Suzuki,Swift,2013,97085.0,Diesel,Manual,Rawalpindi,S8894,First owner
+4943875,BMW,X1,2025,65382.0,Electric,Manual,Karachi,S6992,Excellent condition
+1148230,Audi,A4,2000,143652.0,,Manual,Peshawar,S7086,Excellent condition
+3829117,BMW,320i,2015,,,,Islamabad,S5951,
+1937891,Hyundai,Elantra,2004,28774.0,Petrol,Automatic,Peshawar,S9850,urgent sale
+4323047,Kia,Rio,2023,86014.0,Electric,,Lahore,S4559,urgent sale
+2890646,Hyundai,Elantra,2011,57090.0,Hybrid,,,S8450,Excellent condition
+2528319,BMW,320i,2020,340278.0,,Manual,Lahore,S4394,
+2419916,Honda,Civic,2010,82360.0,,Manual,Islamabad,S1422,Need minor work
+4013990,Toyota,Yaris,2025,129744.0,,Automatic,Lahore,S2041,urgent sale
+2051056,Hyundai,Sonata,2016,,Petrol,Automatic,Rawalpindi,S9543,First owner
+2014975,Hyundai,i10,2000,36890.0,Electric,Automatic,Peshawar,S6277,
+1789058,Honda,Civic,2004,149187.0,,,Rawalpindi,S9282,
+4606036,Hyundai,Elantra,2025,64985.0,,,Karachi,S7815,
+2915924,Toyota,Yaris,2013,,Hybrid,Automatic,Karachi,S2582,
+4702781,BMW,X1,2025,73217.0,,Manual,Rawalpindi,S7929,
+3447995,Toyota,Yaris,2019,168813.0,Hybrid,Manual,Rawalpindi,S7022,Excellent condition
+3665518,Audi,A4,2018,123572.0,Electric,,Rawalpindi,S5381,Excellent condition
+3475237,Honda,City,2022,166996.0,Hybrid,Automatic,Lahore,S1502,Excellent condition
+1353885,BMW,X3,2006,202234.0,Electric,Automatic,Islamabad,S2391,Excellent condition
+3000695,Honda,Civic,2024,328925.0,Petrol,,Lahore,S4531,
+3346256,Toyota,yaris  ,2013,63138.0,Hybrid,,,S1897,Excellent condition
+34939116,Honda,City,2006,76950.0,Hybrid,Automatic,Islamabad,S9196,
+3570932,Audi,Q5,2025,190685.0,Petrol,Automatic,,S8033,
+2781914,Hyundai,i10,2020,223991.0,Hybrid,Manual,Peshawar,S6928,Excellent condition
+1235372,Hyundai,Elantra,2007,233419.0,,Automatic,Rawalpindi,S3754,Excellent condition
+792209,Kia,Rio,2003,283189.0,,Manual,Islamabad,S3399,First owner
+3852384,Honda,Civic,2019,85147.0,Petrol,Manual,,S6295,
+3273525,Suzuki,Alto,2014,40801.0,Electric,Automatic,,S8565,urgent sale
+2667328,Toyota,Corolla,2011,155511.0,Petrol,,Lahore,S1672,urgent sale
+3887266,Audi,Q5,2020,,Hybrid,,Peshawar,S6626,
+3861672,Toyota,Camry,2020,95470.0,Petrol,Manual,,S5634,urgent sale
+2758585,Hyundai,Sonata,2021,318464.0,Petrol,,,S3463,First owner
+4336664,Toyota,Camry,2021,79149.0,Hybrid,Automatic,,S7171,
+999068,Audi,A4,2004,,Petrol,,,S6598,urgent sale
+2061176,Honda??,Civic,2004,86235.0,Petrol,Automatic,Lahore,S6517,
+3145727,Honda,Accord,2012,85872.0,Diesel,Manual,,S4891,urgent sale
+3482665,Kia,Picanto,2024,240367.0,Diesel,,Karachi,S8218,urgent sale
+3503875,Audi,A4,2024,205211.0,,,Peshawar,S8873,First owner
+2910674,Kia,Sportage,2022,275485.0,Petrol,Automatic,Lahore,S4637,urgent sale
+3122626,Suzuki,Alto,2013,32921.0,Electric,,Islamabad,S2623,
+4567549,BMW,X1,2025,81571.0,Diesel,Manual,Islamabad,S1086,Excellent condition
+2336453,Toyota,Yaris,2006,83391.0,,,Rawalpindi,S4906,urgent sale
+42389376,BMW??,X3,2014,37929.0,Petrol,Automatic,Rawalpindi,S6780,Need minor work
+2382183,Kia??,Picanto,2005,49886.0,,Automatic,Lahore,S8702,Excellent condition
+2471626,BMW,X1,2011,137985.0,Petrol,Automatic,Lahore,S6447,Need minor work
+3336688,Toyota,Yaris,2017,182496.0,Diesel,,Peshawar,S8498,Excellent condition
+1592523,Suzuki??,Alto,2001,109579.0,Petrol,Automatic,Islamabad,S4131,First owner
+3443056,Suzuki,Alto,2020,179024.0,Hybrid,Manual,Islamabad,S4060,urgent sale
+1858870,BMW,X1,2011,277250.0,Hybrid,Manual,,S6262,Excellent condition
+3952524,Toyota,Yaris,2021,160000.0,Hybrid,Automatic,Rawalpindi,S6776,
+4130582,Hyundai,Sonata,2020,35072.0,Petrol,,,S3339,
+1628223,BMW,x1  ,2001,71180.0,Petrol,Manual,,S8371,First owner
+4518224,Suzuki,Cultus,2024,45310.0,,Manual,Rawalpindi,S4048,urgent sale
+3654251,Kia,Picanto,2017,66740.0,Hybrid,Automatic,,S4279,Excellent condition
+3017507,Honda,Civic,2014,95521.0,Electric,Manual,,S5914,Need minor work
+2658444,BMW,X3,2022,339338.0,Diesel,Automatic,Rawalpindi,S1430,First owner
+1640128,Kia,Rio,2011,250055.0,,Manual,Rawalpindi,S7730,urgent sale
+1838297,Audi,Q5,2002,70707.0,Hybrid,,Lahore,S3981,Need minor work
+1422175,Hyundai,i10,2001,70096.0,,Manual,Islamabad,S9501,First owner
+2555793,Audi,A3,2008,107918.0,,Automatic,Karachi,S3526,Need minor work
+2658416,BMW,X3,2023,322267.0,Hybrid,,Lahore,S4453,
+4079352,Hyundai,i10,2020,20878.0,Electric,,Rawalpindi,S7653,First owner
+4445719,Hyundai,Elantra,2022,36411.0,Diesel,Automatic,Peshawar,S6231,
+2663546,Audi,A4,2012,73559.0,Hybrid,,Rawalpindi,S2586,Excellent condition
+3244633,Suzuki,Cultus,2019,224223.0,Diesel,Manual,Islamabad,S8648,urgent sale
+1471367,Suzuki,Cultus,2000,52211.0,Electric,,Peshawar,S8710,First owner
+1068895,Kia,Sportage,2003,230930.0,Diesel,Automatic,,S4189,First owner
+975518,Kia,Picanto,2002,207558.0,,Automatic,Rawalpindi,S2584,urgent sale
+3070438,Suzuki,cultus  ,2017,,Diesel,Manual,Rawalpindi,S8761,
+2717637,Hyundai,Elantra,2019,275273.0,Diesel,Automatic,Rawalpindi,S6511,
+2228345,Audi,Q5,2017,261820.0,,Automatic,Peshawar,S1436,
+2392414,Hyundai,Sonata,2020,308287.0,,Manual,,S7229,Need minor work
+36184365,Audi,Q5,2007,21552.0,,,Lahore,S9221,
+4639867,Hyundai,i10,2023,37653.0,Diesel,,Karachi,S3837,urgent sale
+2767863,Kia,Picanto,2017,190748.0,Hybrid,,Peshawar,S5876,First owner
+3400823,BMW,320i,2022,261378.0,Hybrid,Automatic,Islamabad,S9899,urgent sale
+4699856,Hyundai,Sonata,2024,81795.0,Hybrid,Manual,Islamabad,S4505,Need minor work
+1587289,Audi,Q5,2008,299659.0,Hybrid,Manual,Lahore,S4697,
+836988,Honda,Civic,2003,221688.0,Hybrid,,Peshawar,S3587,urgent sale
+1848934,BMW,X1,2015,346069.0,Diesel,Automatic,Islamabad,S9767,
+1478987,BMW,320i,2005,224092.0,Diesel,Manual,Peshawar,S1613,Excellent condition
+4126184,Suzuki,Swift,2019,61256.0,Hybrid,Automatic,Peshawar,S8668,First owner
+2982539,Honda,Civic,2010,90193.0,Electric,,Islamabad,S4164,Need minor work
+2194109,Kia,Rio,2012,229239.0,,Automatic,Lahore,S5064,Excellent condition
+1734664,Suzuki,Cultus,2007,,Hybrid,Automatic,Islamabad,S2017,
+2854048,Toyota,Yaris,2009,88737.0,Electric,,Rawalpindi,S7021,
+1316638,Honda,Civic,2004,255705.0,Diesel,Automatic,,S4578,Need minor work
+4978337,BMW,X3,2025,47923.0,,Automatic,Rawalpindi,S9281,Need minor work
+1625566,Kia,Rio,2004,91264.0,Hybrid,,Peshawar,S8298,Excellent condition
+2871931,Hyundai,Elantra,2016,222802.0,Electric,,Lahore,S1049,
+1643137,Honda,Accord,2002,,Electric,Automatic,,S8734,Excellent condition
+2170310,Suzuki,Cultus,2005,76003.0,Electric,Automatic,Peshawar,S9835,Need minor work
+1480678,BMW??,x1  ,2003,98571.0,,Automatic,Rawalpindi,S5888,urgent sale
+2642710,BMW,X3,2017,227365.0,,Automatic,Karachi,S2848,Excellent condition
+1473579,Audi,Q5,2013,,Petrol,Manual,Karachi,S1797,Need minor work
+2535320,BMW,320i,2012,,Diesel,,Karachi,S6224,
+2580546,Kia,Rio,2010,129205.0,Hybrid,Manual,,S3869,
+2899713,BMW,X1,2017,264848.0,Petrol,Automatic,,S5913,urgent sale
+2774683,Honda,Accord,2015,131336.0,Diesel,Automatic,,S9683,Need minor work
+2353600,Hyundai,Elantra,2008,111607.0,Hybrid,,Lahore,S5398,urgent sale
+4390819,BMW,X3,2019,25734.0,Petrol,Manual,Rawalpindi,S5967,Excellent condition
+4541225,Honda,Civic,2023,66507.0,Electric,Manual,,S5637,urgent sale
+3450952,Hyundai,i10,2020,193355.0,Hybrid,Automatic,Islamabad,S6246,Need minor work
+54867078,Suzuki,Cultus,2013,28968.0,,Manual,,S5026,urgent sale
+3762965,Kia,Rio,2021,181980.0,Hybrid,Automatic,,S3293,
+711766,Kia,Picanto,2005,289235.0,Petrol,,Lahore,S4791,Excellent condition
+945026,BMW,320i,2000,119672.0,,Automatic,Islamabad,S8993,Excellent condition
+3173978,Toyota,camry  ,2017,220659.0,Petrol,Manual,Rawalpindi,S8054,Need minor work
+3536704,Toyota,Corolla,2016,83065.0,Diesel,Manual,Rawalpindi,S7652,urgent sale
+4188421,Kia,sportage  ,2022,123414.0,Hybrid,,Lahore,S7179,
+4285217,Hyundai,Elantra,2020,9954.0,Diesel,Manual,Peshawar,S9653,Excellent condition
+2687169,Honda,Civic,2022,302158.0,Electric,Automatic,Lahore,S3938,First owner
+3407356,Toyota,Corolla,2018,80597.0,Electric,Manual,Islamabad,S9856,First owner
+1785714,Hyundai,i10,2004,46118.0,,,Islamabad,S7499,First owner
+1813812,Toyota,Camry,2008,241218.0,Electric,Manual,Islamabad,S2404,
+4300768,Suzuki,Alto,2022,43538.0,Petrol,Automatic,Karachi,S2745,Excellent condition
+2283037,Toyota,Yaris,2014,193700.0,Hybrid,Manual,Karachi,S1430,Excellent condition
+200000,Suzuki,Swift,2002,317960.0,,Automatic,Peshawar,S4977,
+3292694,Kia,Sportage,2021,204613.0,Diesel,Manual,Islamabad,S5911,urgent sale
+2635071,Audi,A3,2011,136963.0,Diesel,,,S7483,First owner
+2713791,Audi,Q5,2012,177774.0,Electric,Automatic,Peshawar,S4290,urgent sale
+2713791,Audi,Q5,2012,177774.0,Electric,Automatic,Peshawar,S4290,urgent sale
+2722046,Suzuki,Alto,2012,172320.0,Hybrid,,,S7437,First owner
+22787365,Toyota,Camry,2006,315497.0,,Manual,,S2133,urgent sale
+965408,BMW,X1,2004,337050.0,Hybrid,Manual,Islamabad,S8851,
+3014166,Hyundai,i10,2016,224310.0,,Manual,Islamabad,S5067,
+1035294,BMW,X1,2005,344214.0,,Manual,Rawalpindi,S8052,Excellent condition
+2418138,Toyota,Corolla,2008,121392.0,,,Rawalpindi,S9199,Need minor work
+3102642,Suzuki,Alto,2015,59813.0,Hybrid,Automatic,Lahore,S4389,
+3473515,Hyundai,Sonata,2015,56182.0,Electric,,,S6620,
+4602879,Toyota,Camry,2025,91168.0,Diesel,,Karachi,S7636,
+2905117,Honda,Civic,2020,349618.0,Electric,Automatic,Lahore,S4519,Need minor work
+4487036,Suzuki,Swift,2025,37801.0,,Manual,Rawalpindi,S9019,
+2835991,BMW,X1,2019,208758.0,,Automatic,Rawalpindi,S5873,
+3944079,Kia,Sportage,2021,75227.0,Hybrid,Manual,Karachi,S3258,
+960874,Hyundai,Sonata,2005,260155.0,,,,S8389,
+773491,Toyota,Yaris,2000,259074.0,Diesel,Manual,Peshawar,S8272,urgent sale
+3822309,Honda,Civic,2018,21179.0,Diesel,Automatic,Lahore,S9115,
+3883988,Kia,Sportage,2018,,Hybrid,,Islamabad,S7965,Excellent condition
+3961696,BMW,X3,2024,134777.0,Hybrid,Manual,Peshawar,S4882,Need minor work
+2869889,Audi,Q5,2018,188831.0,,,Peshawar,S6747,
+3356997,Suzuki,Swift,2017,93278.0,Hybrid,,Islamabad,S2560,Need minor work
+1109820,Audi,A4,2001,150397.0,Diesel,,Karachi,S7434,urgent sale
+3229759,Honda,Accord,2020,145885.0,Electric,Automatic,Peshawar,S5558,
+2494701,Suzuki,Cultus,2015,176593.0,,Manual,,S2037,
+2757013,Hyundai,Elantra,2013,116071.0,Electric,Automatic,Islamabad,S6631,
+1479632,Audi,A3,2001,,Electric,Manual,Lahore,S3161,
+2560221,Suzuki,Alto,2008,53937.0,Hybrid,Automatic,Lahore,S4836,urgent sale
+3927209,BMW??,320i,2022,54903.0,Petrol,Manual,Peshawar,S6629,Excellent condition
+4150192,Audi,A4,2022,74297.0,Electric,Manual,Karachi,S5902,Need minor work
+3489406,Hyundai,Elantra,2020,79896.0,Petrol,,Rawalpindi,S3480,urgent sale
+3354506,Kia,Rio,2014,118898.0,Petrol,Manual,Karachi,S3290,Need minor work
+1800661,Suzuki,Swift,2002,135110.0,,,Rawalpindi,S5942,Need minor work
+2937694,Kia,Rio,2016,103905.0,Electric,Automatic,,S4949,urgent sale
+448524,BMW,X3,2002,281974.0,Petrol,Automatic,Islamabad,S3830,urgent sale
+1200000,Audi,A3,2000,312947.0,Petrol,Manual,Islamabad,S9209,urgent sale
+2839022,Hyundai,i10,2012,48215.0,,,Rawalpindi,S3545,
+2410977,Suzuki,Cultus,2018,337552.0,Petrol,Automatic,,S8118,Excellent condition
+4280767,Hyundai,i10,2019,33850.0,Hybrid,,,S3684,urgent sale
+3481597,Suzuki,Swift,2016,140920.0,Diesel,Automatic,Karachi,S1480,First owner
+1646413,Audi,A4,2008,279650.0,Petrol,Automatic,,S3734,First owner
+4186181,Honda,city  ,2024,58951.0,,,,S5006,Excellent condition
+3250270,Hyundai,Sonata,2012,83687.0,Diesel,Manual,Rawalpindi,S6241,First owner
+2692940,Audi,A3,2018,200458.0,Petrol,,,S2129,urgent sale
+43994038,Audi,A4,2024,167895.0,Hybrid,Manual,Rawalpindi,S4974,urgent sale
+2749402,Suzuki,Swift,2015,,,Manual,Karachi,S1157,First owner
+2338616,Toyota,Camry,2012,166224.0,Petrol,Manual,Rawalpindi,S5584,Excellent condition
+2381226,Toyota,Corolla,2016,221560.0,Hybrid,Automatic,,S2020,urgent sale
+2265154,BMW,320i,2007,157922.0,Hybrid,Automatic,Peshawar,S4321,Need minor work
+1896299,Audi,Q5,2003,86479.0,Petrol,Manual,Peshawar,S8404,First owner
+2316906,Hyundai,Sonata,2003,,Diesel,,Islamabad,S2494,
+1821804,Honda,City,2012,274200.0,Petrol,,Islamabad,S5093,Excellent condition
+4321631,Hyundai,Elantra,2025,78291.0,Petrol,Manual,Lahore,S2376,
+2102826,Kia,Picanto,2002,16429.0,Petrol,Manual,,S3007,Excellent condition
+19274868,Hyundai,Elantra,2005,305880.0,Electric,,Peshawar,S5585,urgent sale
+2421310,Honda,Civic,2019,329626.0,,Manual,,S7275,Need minor work
+2497088,Hyundai,Elantra,2020,280678.0,Diesel,,Rawalpindi,S8940,First owner
+1971252,Kia,Rio,2010,,Hybrid,Manual,Lahore,S8728,
+2129422,Suzuki,Swift,2007,88689.0,Petrol,Manual,,S4594,
+2653076,Audi??,A4,2011,96075.0,Diesel,Manual,Rawalpindi,S6761,
+3305644,Kia,Sportage,2018,103688.0,Electric,,Islamabad,S9625,urgent sale
+3392955,Toyota??,Yaris,2019,110625.0,Diesel,Automatic,,S3320,Excellent condition
+2999677,Audi,Q5,2011,43027.0,Hybrid,,,S8157,
+2572498,Hyundai,i10,2010,96332.0,,,Rawalpindi,S5825,Need minor work
+200000,Honda,Accord,2000,305330.0,Electric,,Lahore,S2705,urgent sale
+4187077,Honda,City,2023,45793.0,Diesel,Automatic,Islamabad,S6500,urgent sale
+1634127,Toyota,Yaris,2006,,Petrol,Automatic,Islamabad,S3725,urgent sale
+1949770,Hyundai,Sonata,2011,291273.0,Electric,Manual,Peshawar,S1547,First owner
+2534166,Toyota,Yaris,2008,,Petrol,Automatic,Karachi,S6536,
+4650573,Kia,Picanto,2022,21249.0,Electric,,Karachi,S4112,urgent sale
+3110942,BMW,X3,2023,,Hybrid,,Islamabad,S3516,Excellent condition
+3414661,Suzuki,Alto,2013,50942.0,Hybrid,,,S2342,urgent sale
+1770942,Audi,A3,2009,213387.0,Electric,Automatic,,S7052,Need minor work
+1543857,Hyundai,Elantra,2008,235550.0,Electric,Automatic,Karachi,S6632,
+1282737,Hyundai,i10,2007,295246.0,Petrol,Automatic,Rawalpindi,S4860,urgent sale
+3403210,Suzuki,Alto,2012,23207.0,,,Rawalpindi,S3832,Need minor work
+2279672,Honda,Civic,2004,27374.0,Electric,Manual,,S6238,
+1019593,Audi??,A3,2002,208475.0,,Automatic,Rawalpindi,S9561,urgent sale
+2341721,Toyota,Yaris,2004,82699.0,,,Rawalpindi,S5687,
+24789700,Suzuki,Cultus,2008,205825.0,Electric,,Rawalpindi,S7581,Excellent condition
+3753836,Hyundai,Sonata,2022,,Petrol,,Peshawar,S5593,urgent sale
+4497380,Audi,Q5,2021,56494.0,Diesel,Manual,Islamabad,S2462,Need minor work
+2285319,Hyundai,Elantra,2013,,,Automatic,Lahore,S9589,
+2285319,Hyundai,Elantra,2013,,,Automatic,Lahore,S9589,
+2127431,Toyota,Corolla,2006,110238.0,Petrol,Manual,Lahore,S8605,
+2357784,Hyundai,i10,2003,21023.0,Diesel,Automatic,Peshawar,S6640,Need minor work
+4030107,Audi,A4,2023,52391.0,Hybrid,Manual,Peshawar,S4688,
+2790835,Honda,City,2020,219699.0,,Manual,,S4666,First owner
+2775743,Kia,Picanto,2022,341981.0,Hybrid,Automatic,Peshawar,S7506,
+3032615,Toyota,Corolla,2016,201204.0,,,Rawalpindi,S5529,
+1237446,Suzuki,Cultus,2008,348995.0,Hybrid,Manual,Karachi,S7620,
+2307172,Suzuki,Swift,2004,18345.0,Electric,Automatic,Islamabad,S4111,First owner
+1425448,BMW,X3,2007,285302.0,Electric,,Islamabad,S5813,Excellent condition
+3888896,Hyundai,Elantra,2023,140608.0,,Manual,,S7889,First owner
+2900449,Suzuki,Cultus,2018,159167.0,Electric,Manual,Peshawar,S4187,
+1664167,Toyota,Camry,2012,282787.0,Hybrid,Automatic,Lahore,S8496,Need minor work
+2028573,Suzuki,Swift,2005,,Electric,Automatic,,S3762,
+3688464,Audi??,A3,2015,51159.0,Diesel,,Peshawar,S9745,Need minor work
+15839532,BMW,X1,2000,173932.0,,Manual,Lahore,S2682,urgent sale
+2402125,Kia,Rio,2009,92566.0,Petrol,Manual,Islamabad,S3192,First owner
+4080568,Hyundai??,Sonata,2024,103789.0,Diesel,Automatic,Lahore,S9267,Need minor work
+2657864,Toyota,Yaris,2022,346070.0,Petrol,Automatic,,S2771,
+1401063,Audi,A3,2001,65707.0,Electric,Automatic,Peshawar,S1152,First owner
+1185809,Hyundai,i10,2003,277791.0,Hybrid,,Rawalpindi,S2928,First owner
+3282818,Toyota,Corolla,2015,109148.0,,Manual,Islamabad,S9980,urgent sale
+3092603,Honda,Accord,2015,178331.0,Diesel,Manual,Lahore,S2475,
+4428413,Toyota,Camry,2023,58105.0,Hybrid,,Karachi,S3862,Excellent condition
+2054873,Audi,a4  ,2011,168948.0,Electric,,Lahore,S3793,First owner
+3223397,Suzuki,Cultus,2019,145671.0,Petrol,Automatic,Islamabad,S8835,urgent sale
+1903866,BMW,320i,2003,74474.0,Petrol,Manual,Lahore,S7221,First owner
+4063757,Kia??,Sportage,2021,,Electric,Automatic,Lahore,S9598,
+3749513,Kia,Rio,2018,122432.0,Hybrid,,Rawalpindi,S6664,
+2517525,BMW,X3,2012,82937.0,,,Lahore,S3709,Excellent condition
+2555073,Audi,A4,2010,131296.0,Hybrid,Automatic,Lahore,S8521,urgent sale
+3028738,Audi,q5  ,2014,51147.0,Electric,Automatic,Islamabad,S1587,
+644150,Kia,Sportage,2002,321776.0,,,Islamabad,S1889,Need minor work
+1938070,Audi,A4,2010,298680.0,,,Peshawar,S4633,Excellent condition
+3825786,Suzuki,Cultus,2020,158083.0,,,Islamabad,S7704,Excellent condition
+2162617,Suzuki,Swift,2006,103326.0,Petrol,Automatic,Karachi,S1761,
+3909932,Audi,Q5,2018,69602.0,Electric,Automatic,,S1795,
+2104525,Hyundai,i10,2015,271512.0,Diesel,,Rawalpindi,S6273,
+3392723,Hyundai,Sonata,2019,135148.0,Hybrid,Automatic,Islamabad,S9393,First owner
+2882752,Audi,Q5,2017,169579.0,,,Karachi,S3173,
+2750625,BMW,320i,2016,289421.0,Hybrid,,Lahore,S7839,
+1454239,BMW,X3,2009,,Petrol,,Lahore,S3636,First owner
+1806260,BMW,X1,2004,37523.0,Hybrid,Manual,Rawalpindi,S4675,
+2998756,BMW,X3,2012,129568.0,,,Islamabad,S6122,
+3792629,Toyota,Corolla,2023,136775.0,Diesel,,Peshawar,S9955,
+4543579,Kia,Sportage,2024,106448.0,Hybrid,Automatic,Karachi,S1665,urgent sale
+2079959,Suzuki,Swift,2008,73192.0,Diesel,,Islamabad,S6285,
+3321024,Toyota,Camry,2019,162891.0,Electric,,Rawalpindi,S9529,Excellent condition
+1061076,Audi,Q5,2005,223067.0,,,Peshawar,S5809,Need minor work
+2250489,Audi,Q5,2016,253961.0,,,Lahore,S4994,Excellent condition
+3356943,BMW,X1,2012,64440.0,Electric,Automatic,Rawalpindi,S9335,urgent sale
+913405,Hyundai,Elantra,2009,346588.0,Diesel,Automatic,Rawalpindi,S1120,
+2433745,Toyota,Corolla,2021,335046.0,Diesel,,Peshawar,S8130,
+29118411,Audi,A3,2023,,Petrol,Automatic,,S4729,First owner
+1500636,Hyundai,sonata  ,2014,335415.0,Electric,Automatic,Islamabad,S2036,
+4208630,Kia,Sportage,2022,43057.0,Hybrid,,Lahore,S8170,urgent sale
+355476,Hyundai,i10,2000,253506.0,Diesel,,Karachi,S3360,First owner
+3025106,BMW,X3,2020,,Petrol,,Rawalpindi,S2394,First owner
+3851065,Honda,Accord,2023,185277.0,Diesel,Automatic,,S2877,Need minor work
+212917,BMW,X3,2001,,Electric,,Rawalpindi,S8982,First owner
+2906329,Suzuki,Alto,2021,348656.0,Diesel,Manual,Islamabad,S6008,
+27670092,Kia,Sportage,2018,302198.0,Hybrid,Automatic,Peshawar,S5533,First owner
+3721997,Honda,Accord,2023,178834.0,Electric,Automatic,Peshawar,S2343,First owner
+3060246,Audi,A3,2017,107986.0,Hybrid,,,S7637,
+3497482,Honda,Civic,2017,141638.0,,,Peshawar,S5767,Need minor work
+3148726,Hyundai,i10,2016,52476.0,Electric,Automatic,Rawalpindi,S3717,
+1738685,Honda,City,2005,98923.0,,,,S8989,Need minor work
+2704577,Toyota,Yaris,2011,127693.0,Petrol,,Karachi,S1760,Excellent condition
+1054994,BMW,X1,2003,278349.0,Hybrid,,Islamabad,S2275,
+1451876,Suzuki,cultus  ,2007,275727.0,Electric,Automatic,Islamabad,S8207,Need minor work
+1884149,Honda,Civic,2016,342367.0,Hybrid,Manual,Karachi,S7793,First owner
+2168898,BMW,320i,2015,256036.0,Electric,Manual,Rawalpindi,S3639,Need minor work
+345639,BMW,X3,2001,305033.0,Diesel,Manual,Karachi,S1305,
+2804532,BMW,X3,2009,49956.0,Diesel,Automatic,Rawalpindi,S3979,
+2594614,BMW??,X3,2008,92934.0,Hybrid,Automatic,Rawalpindi,S9564,
+992300,BMW,X1,2004,322462.0,Petrol,Manual,Peshawar,S2526,urgent sale
+2773752,BMW,320i  ,2019,287741.0,Petrol,,,S4759,urgent sale
+1371236,Audi,A4,2011,313830.0,,Manual,Peshawar,S9908,urgent sale
+21795004,Suzuki,Alto,2000,8729.0,,,Lahore,S3535,urgent sale
+2113420,BMW,X3,2008,141997.0,,Automatic,Rawalpindi,S8904,Need minor work
+2587938,Suzuki,Swift,2017,258629.0,Hybrid,Automatic,Rawalpindi,S2951,
+4450883,Honda,City,2025,89827.0,Petrol,Manual,Rawalpindi,S1852,Need minor work
+1672746,Hyundai,i10,2000,52756.0,Diesel,Automatic,Rawalpindi,S7296,urgent sale
+3295434,Kia,Rio,2016,,,Manual,Karachi,S9489,First owner
+3126334,Honda,Civic,2025,319318.0,,,,S3579,Excellent condition
+15974364,Suzuki,Cultus,2011,212168.0,Electric,,Karachi,S6703,First owner
+13082880,Audi,A4,2007,322909.0,Diesel,Automatic,Peshawar,S5821,First owner
+1469196,Toyota,Camry,2008,287016.0,,Automatic,,S8517,
+592806,Hyundai,i10,2000,257691.0,Petrol,Automatic,Lahore,S6172,urgent sale
+3567042,Suzuki,Swift,2017,10097.0,Hybrid,Manual,Islamabad,S3924,urgent sale
+1387339,Suzuki,Cultus,2006,305790.0,Hybrid,Manual,,S4965,First owner
+1632311,Honda,Civic,2006,,,Automatic,Karachi,S1108,
+1436038,Toyota,Yaris,2011,330408.0,Hybrid,Automatic,Rawalpindi,S4638,
+2792553,Honda,Civic,2016,226866.0,Electric,,Lahore,S2972,
+3030794,Kia,Picanto,2010,9413.0,Petrol,,Karachi,S9987,First owner
+2170838,Honda,City,2015,326432.0,Hybrid,Automatic,Karachi,S7563,First owner
+3375951,Hyundai,Elantra,2018,73754.0,,,Karachi,S4212,Need minor work
+1218961,Audi,Q5,2004,252981.0,Petrol,Manual,Peshawar,S6172,urgent sale
+2730547,Suzuki,Cultus,2017,302708.0,Petrol,Automatic,Lahore,S2577,urgent sale
+1738993,BMW,X1,2008,194248.0,Hybrid,,Rawalpindi,S4259,
+2784401,Kia,Rio,2020,287296.0,Diesel,Automatic,Islamabad,S7243,
+3917596,Suzuki,Cultus,2020,80942.0,Diesel,,Islamabad,S3654,First owner
+1577962,Honda,City,2010,347366.0,Hybrid,,Islamabad,S6950,
+2180868,Kia,Rio,2014,222049.0,Diesel,Manual,Lahore,S2311,Need minor work
+27556235,Honda,City,2003,55097.0,Petrol,Automatic,Rawalpindi,S3544,Excellent condition
+2398447,BMW??,X1,2009,125248.0,Diesel,,Islamabad,S6846,First owner
+1859573,Audi,A4,2014,288421.0,Hybrid,,Peshawar,S8126,
+2921406,BMW,X3,2017,167351.0,Hybrid,Automatic,Rawalpindi,S5973,Excellent condition
+90775820,Toyota??,Camry,2024,76460.0,Hybrid,Automatic,Peshawar,S8052,First owner
+4867816,Kia,Sportage,2025,8784.0,,Automatic,Karachi,S7385,urgent sale
+1315757,Honda,City,2002,226375.0,Diesel,,Rawalpindi,S7765,Need minor work
+2174311,Audi,A3,2005,76630.0,Hybrid,Manual,,S1317,Need minor work
+1098693,Toyota,Camry,2000,102484.0,Petrol,Automatic,Islamabad,S9086,Need minor work
+1261768,Suzuki,Cultus,2009,266302.0,Hybrid,Automatic,,S7429,Excellent condition
+1679065,Kia,Picanto,2005,105764.0,Hybrid,Automatic,Lahore,S5049,
+3384483,Toyota,Corolla,2014,54262.0,,,Karachi,S1691,
+1359336,Kia,Rio,2003,,Electric,,Islamabad,S4866,
+1431310,Hyundai,sonata  ,2000,,Hybrid,,Lahore,S8786,
+2636276,Kia,Sportage,2011,51913.0,Diesel,Manual,Peshawar,S1983,Excellent condition
+772962,Suzuki,Swift,2004,286203.0,Petrol,Manual,Peshawar,S8187,
+3367579,Honda,Civic,2022,203059.0,Hybrid,,Karachi,S9029,Need minor work
+2872318,Kia,Sportage,2017,187276.0,Hybrid,,Peshawar,S9702,Need minor work
+1664233,Hyundai,Sonata,2008,288957.0,Hybrid,Automatic,Lahore,S6965,
+4598481,Honda,City,2023,38209.0,,Automatic,Karachi,S7714,
+630781,Suzuki,Alto,2003,279307.0,Petrol,Manual,Karachi,S7366,
+2419009,Hyundai,i10,2019,,Hybrid,Manual,Islamabad,S9051,Excellent condition
+1015851,Hyundai,i10,2001,,,,Peshawar,S2153,First owner
+3677897,Toyota,Corolla,2016,55918.0,Petrol,,Karachi,S3931,
+3219408,BMW,X3,2013,60319.0,,Automatic,,S7579,
+985878,Suzuki,Swift,2005,284917.0,,Automatic,Islamabad,S8054,
+1395717,Suzuki,Swift,2007,300250.0,,Manual,Peshawar,S7505,Excellent condition
+15476976,BMW,320i,2009,317351.0,Petrol,,Karachi,S5521,
+2599287,Kia,Rio,2018,304689.0,Diesel,Manual,Lahore,S4817,First owner
+969438,Audi,A4,2002,304099.0,Electric,,Karachi,S2562,
+414942,BMW,X1,2001,307138.0,Electric,Manual,Lahore,S4714,
+3088440,BMW,X3,2000,337339.0,Electric,Manual,Islamabad,S7436,urgent sale
+2595744,Audi,Q5,2018,269623.0,Petrol,Manual,Peshawar,S1807,
+786998,Hyundai,Sonata,2002,213942.0,,Automatic,,S4212,
+3180441,Kia,Rio,2016,134103.0,Diesel,Manual,Islamabad,S7939,First owner
+2071475,Suzuki,Alto,2010,185630.0,,,Lahore,S3389,urgent sale
+1312885,Toyota,Corolla,2006,200989.0,Diesel,,Lahore,S5713,Excellent condition
+4187148,Suzuki,Swift,2025,63341.0,Hybrid,Automatic,Peshawar,S5237,
+4540229,Hyundai,i10,2023,79106.0,Petrol,Automatic,Rawalpindi,S5444,Excellent condition
+1975606,Hyundai??,i10,2000,39916.0,Electric,,Islamabad,S7332,Need minor work
+4391276,Hyundai,i10,2022,57221.0,Hybrid,Automatic,Rawalpindi,S1352,Excellent condition
+29203216,Honda,Accord,2009,179886.0,Electric,Automatic,,S9212,First owner
+3473314,Audi,A3,2020,140098.0,Electric,Manual,Rawalpindi,S7262,
+3418984,BMW,X3,2020,124237.0,Electric,Manual,Rawalpindi,S3158,Need minor work
+2917853,BMW,320i,2018,288825.0,Diesel,Manual,Islamabad,S3378,
+2601368,Kia??,Sportage,2010,40554.0,,,,S6221,urgent sale
+1577502,Hyundai,Sonata,2014,,Hybrid,Manual,Karachi,S4783,
+4406378,Honda,Civic,2021,18675.0,Hybrid,Manual,,S4014,urgent sale
+1934081,Hyundai,Sonata,2004,,Diesel,Manual,Lahore,S4323,Need minor work
+1997190,Toyota,Corolla,2014,328516.0,Electric,,Islamabad,S7232,
+2908260,Suzuki,Cultus,2019,304858.0,,,Rawalpindi,S1694,Need minor work
+3453387,Kia,Rio,2012,25579.0,,Automatic,Rawalpindi,S5684,urgent sale
+1076859,Honda,City,2009,326458.0,Petrol,,Rawalpindi,S3945,
+930722,BMW,X3,2004,211080.0,Electric,Automatic,Peshawar,S8449,Excellent condition
+2524345,Suzuki,Cultus,2022,345040.0,Diesel,,,S7292,
+3361873,Audi,Q5,2019,88833.0,Electric,,Peshawar,S3459,Need minor work
+2686125,Audi,A3,2005,31901.0,Electric,Automatic,Islamabad,S3155,Need minor work
+4194349,Toyota,Camry,2024,,Petrol,Automatic,Peshawar,S8794,urgent sale
+692879,Hyundai,Sonata,2002,320210.0,,Manual,Karachi,S4028,Need minor work
+3284914,Toyota,Camry,2011,24252.0,Diesel,Manual,,S7831,Need minor work
+1119102,Honda??,Accord,2009,325387.0,,,Rawalpindi,S5903,First owner
+1068487,Suzuki,Cultus,2002,229040.0,,Manual,Islamabad,S9595,Need minor work
+1068487,Suzuki,Cultus,2002,229040.0,,Manual,Islamabad,S9595,Need minor work
+4242006,BMW,320i,2019,35505.0,Petrol,,,S5705,urgent sale
+1173734,Kia,Picanto,2008,280456.0,,,Islamabad,S3947,
+2515077,Honda,Accord,2009,106478.0,Petrol,Manual,Lahore,S7793,urgent sale
+1516865,Toyota,Yaris,2011,298819.0,Diesel,Manual,,S6307,Excellent condition
+2406060,Toyota,Camry,2010,183971.0,Electric,,Rawalpindi,S8849,urgent sale
+3982122,Audi,A3,2020,76174.0,Electric,Manual,,S7782,
+1073667,Toyota,Camry,2009,301192.0,Hybrid,,Rawalpindi,S6793,Excellent condition
+739966,Honda,City,2000,182813.0,Electric,,Rawalpindi,S6050,
+4533289,Audi,A4,2022,21582.0,Hybrid,Automatic,Lahore,S9603,First owner
+64150960,Honda,Civic,2011,24605.0,Diesel,Manual,Peshawar,S8921,
+2386494,Audi,q5  ,2009,176619.0,Diesel,Manual,Rawalpindi,S9558,Excellent condition
+200000,Toyota??,Yaris,2001,316577.0,Petrol,Automatic,Peshawar,S6114,
+2004907,Honda,City,2006,105949.0,Hybrid,Automatic,Rawalpindi,S2875,Excellent condition
+3682681,Kia,Rio,2016,58674.0,Diesel,,Islamabad,S5011,Need minor work
+17900472,Toyota,Yaris,2019,182596.0,,Automatic,Lahore,S3932,
+3034745,Kia,Rio,2020,238746.0,,Automatic,Islamabad,S8629,
+3945172,Honda,Civic,2025,250511.0,Petrol,Automatic,Islamabad,S3354,
+58510840,Suzuki,Cultus,2012,101129.0,Hybrid,Automatic,Peshawar,S5624,First owner
+715623,Kia,Rio,2004,271311.0,Petrol,Automatic,,S7566,
+3498640,Hyundai,Elantra,2019,132764.0,,Manual,Peshawar,S8132,
+2957618,Audi,A4,2017,128812.0,Diesel,,,S8584,First owner
+3300495,Kia,Sportage,2014,97365.0,Hybrid,Automatic,Lahore,S9098,
+1124738,BMW,320i,2002,119091.0,Diesel,,,S8326,Need minor work
+2325109,Honda,Accord,2010,162147.0,,,Islamabad,S9362,urgent sale
+2372279,Audi,A3,2009,37721.0,Hybrid,,Lahore,S1510,Need minor work
+3007206,Hyundai,i10,2018,211710.0,Hybrid,,Peshawar,S4083,
+13757000,Hyundai,Sonata,2013,85880.0,Hybrid,,Karachi,S3224,Excellent condition
+13757000,Hyundai,Sonata,2013,85880.0,Hybrid,,Karachi,S3224,Excellent condition
+3811243,Honda,Accord,2025,223028.0,Electric,,Rawalpindi,S7303,First owner
+2196568,Honda,Civic,2013,321970.0,Petrol,,Peshawar,S7012,Excellent condition
+3012833,Toyota,Camry,2015,198241.0,Petrol,,Peshawar,S5578,urgent sale
+2437037,Kia,Sportage,2016,324852.0,Petrol,Manual,Peshawar,S6119,
+3958760,Toyota,Yaris,2017,10653.0,Electric,Automatic,Rawalpindi,S5827,First owner
+2801429,Honda,Civic,2022,318333.0,Hybrid,,Rawalpindi,S5780,
+1344830,Kia,Sportage,2009,259153.0,Petrol,Manual,Rawalpindi,S5209,Excellent condition
+3968439,BMW,320i,2019,96547.0,,,Karachi,S8944,Need minor work
+837883,Audi,Q5,2001,184751.0,Petrol,Manual,Rawalpindi,S8211,
+937683,BMW,320i,2006,307911.0,Hybrid,Manual,,S5937,urgent sale
+1451580,BMW,X3,2007,204124.0,Electric,Automatic,Islamabad,S7258,
+4238490,Suzuki,Swift,2021,26505.0,Petrol,,,S6488,First owner
+1407774,Suzuki,Alto,2008,348064.0,,Automatic,Peshawar,S6528,
+10325776,BMW,320i,2010,292106.0,Petrol,,Lahore,S5641,First owner
+519790,Honda,Civic,2000,329742.0,Petrol,Manual,Rawalpindi,S2965,Excellent condition
+1678895,Audi,Q5,2004,202110.0,,Manual,Lahore,S8429,First owner
+3537976,Audi,A4,2022,174556.0,Hybrid,Manual,Lahore,S5336,Need minor work
+3405798,Hyundai,Elantra,2015,110208.0,,Automatic,Karachi,S2740,urgent sale
+2486501,BMW,X1,2003,23277.0,Petrol,Manual,Rawalpindi,S1014,Excellent condition
+2021458,BMW,X1,2008,84485.0,Hybrid,Automatic,Rawalpindi,S2148,
+2007648,Honda,Civic,2012,257741.0,Petrol,,Rawalpindi,S2485,First owner
